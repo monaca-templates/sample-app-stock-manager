@@ -7,7 +7,7 @@
 </template>
 
 <script>
-  import TopMenuButton from './TopMenuButton'
+  import TopMenuButton from './topMenuButton'
 
   export default{
     name: 'Scanner',

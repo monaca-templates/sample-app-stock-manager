@@ -35,8 +35,8 @@
 </template>
 
 <script>
-  import Counter from '../components/Counter'
-  import Header from '../components/Header'
+  import Counter from '../components/counter'
+  import Header from '../components/header'
 
   export default {
     name: 'CartList',

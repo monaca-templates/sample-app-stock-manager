@@ -1,0 +1,24 @@
+{
+  "topmenu": {
+    "title": "商品検索アプリ"
+  },
+  "scan_barcode": {
+    "title": "バーコードスキャン"
+  },
+  "cart_list": {
+    "title": "カート一覧",
+    "price_yen": "{price}円",
+    "goto_order": "注文へ進む"
+  },
+  "product_detail": {
+    "title": "商品詳細",
+    "image": "商品画像",
+    "count": "数量：",
+    "cart_status": "現在{countInCart}個がカートに入っています。（{addedAt}）",
+    "exhibit_url": "出品URL：{url}",
+    "addto_cart": "カートに入れる"
+  },
+  "purchase_history": {
+    "title": "購入履歴"
+  }
+}

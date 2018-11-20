@@ -20,9 +20,9 @@
   </v-content>
 </template>
 <script>
-  import Scanner from '../components/Scanner'
-  import TopMenuButton from '../components/TopMenuButton'
-  import Header from '../components/Header'
+  import Scanner from '../components/scanner'
+  import TopMenuButton from '../components/topMenuButton'
+  import Header from '../components/header'
 
   export default{
     name: 'TopMenu',

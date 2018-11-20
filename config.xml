@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" id="youta.dev.sample.barcodereader" version="1.0.0">
-  <name>sample-barcodereader-app</name>
+  <name>sample-app-stock-manager</name>
   <description>Made with Monaca (http://monaca.mobi)</description>
   <author/>
   <access origin="*"/>

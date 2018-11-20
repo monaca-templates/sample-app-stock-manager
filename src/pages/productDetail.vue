@@ -32,9 +32,9 @@
 <script>
   const moment = require('moment')
   import axios from 'axios'
-  import CartButton from '../components/CartButton'
-  import Counter from '../components/Counter'
-  import Header from '../components/Header'
+  import CartButton from '../components/cartButton'
+  import Counter from '../components/counter'
+  import Header from '../components/header'
 
   export default {
     name: 'ProductDetail',

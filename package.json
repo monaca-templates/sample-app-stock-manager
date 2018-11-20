@@ -1,7 +1,7 @@
 {
-    "name": "sample-barcodereader-app",
-    "version": "3.0.0+20180918.1",
-    "description": "",
+    "name": "sample-stock-manager",
+    "version": "1.0.0+20181120.1",
+    "description": "sample-stock-manager",
     "dependencies": {
         "axios": "^0.18.0",
         "babel-plugin-transform-runtime": "^6.23.0",
